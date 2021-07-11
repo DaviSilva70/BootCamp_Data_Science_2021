@@ -4,10 +4,10 @@ BootCamp_Stack
 
 Bom Dia.
 
-Aulas desenvlvidas com a StackAcademy.
+Aulas desenvolvidas com a StackAcademy.
 
-Projeto e construçâo da ase de Dados um app que nos, auxilia na definicão de valores de Aligueis por medidas comportamentais do usuarios.
+Projeto e construçâo da Base de Dados um app que nos, auxilia na definicão de valores de Alugueis por medidas comportamentais do usuarios.
 
-Agradecimento ao Mentores Felipe Sanatana e Rodrigo Santana.
+Agradecimento ao Mentores Felipe Santana e Rodrigo Santana.
 
 
